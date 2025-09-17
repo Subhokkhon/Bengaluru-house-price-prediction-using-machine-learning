@@ -55,6 +55,7 @@ Model Evaluation
 Evaluated models using R² Score and Cross-Validation
 
 Final model achieves good accuracy for price prediction.
+
 🛠️ Tech Stack
 
 Python (Pandas, NumPy, Matplotlib, Scikit-learn)
